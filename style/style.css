@@ -6,7 +6,7 @@
 .buttons {
     display: flex;
     justify-content: center;
-    margin-bottom: 200px;
+    margin-bottom: 100px;
     margin-top: 50px;
 }
 
@@ -46,6 +46,10 @@
     margin-bottom: 100px;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    border: 2px solid white;
+    border-radius: 50px;
+    height: 500px;
 }
 
 body {
