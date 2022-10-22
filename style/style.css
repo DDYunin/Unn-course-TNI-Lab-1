@@ -16,6 +16,18 @@
     color: white;
     border-radius: 5px;
     margin-right: 200px;
+    cursor: pointer;
+    height: 50px;
+    width: 200px;
+}
+
+.buttons__button:hover {
+    background-color: #f10000;
+}
+
+.buttons__button:active {
+    background-color: #f10000;
+    transform: translateY(2px);
 }
 
 .buttons__button:last-child {
@@ -44,4 +56,9 @@ body {
     height: 100%;
     width: 100%;
     position: absolute;
+    cursor: pointer;
+}
+
+.image-size:active {
+    transform: translateY(1px);
 }
