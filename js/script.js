@@ -3,7 +3,7 @@ let elems = document.getElementById("first-pack");
 let secondElems = document.getElementById("second-pack");
 
 let cardsNamesAlt = ['card-6-buby','card-7-buby','card-8-buby','card-9-buby','card-10-buby','card-valet-buby','card-dama-buby','card-king-buby', 'card-tuz-buby'];
-let cardsSrc = ['img/card-6.jpg','img/card-7.jpg','img/card-8.jpg','img/card-9.jpg','img/card-10.png','img/card-valet.jpg','img/card-dama.jpg','img/card-king.jpg','img/card-tuz.jpg'];
+let cardsSrc = ['img/card-6.jpg','img/card-7.jpg','img/card-8.jpg','img/card-9.jpg','img/card-10.jpg','img/card-valet.jpg','img/card-dama.jpg','img/card-king.jpg','img/card-tuz.jpg'];
 let cardClassName = 'image-size';
 
 let all_elems = []
